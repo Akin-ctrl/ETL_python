@@ -12,5 +12,3 @@ This project demonstrates a simple ETL (Extract, Transform, Load) pipeline using
 - Connects Python container to PostgreSQL container internally
 
 ---
-
-
